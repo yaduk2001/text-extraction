@@ -21,3 +21,12 @@ Firebase ML Kit / Tesseract OCR (choose whichever was used)
 Image Picker
 Api intergrtion
 Buid for a friend #jeevan
+📦 Installation
+Clone the repo:
+git clone https://github.com/your-username/text-extraction-flutter.git
+cd text-extraction-flutter
+Install dependencies:
+flutter pub get
+Run the app:
+flutter run
+Make sure to configure permissions for camera and gallery access in AndroidManifest.xml and Info.plist for Android and iOS respectively.
